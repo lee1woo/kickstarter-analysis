@@ -18,7 +18,8 @@
      ``` 
 
     - This allowed me to read the date. After doing so, I used the Years function 'Years()' to extract the year from the "Data Created Conversion" Column. After extracting the years, I created a pivot table and placed outcomes in columns, date created conversion to rows, and count of outcomes to values. This allowed me to filter the data by month and see how many successful, failed, and canceled plays there were over the years.
-    - ![screenshot](https://user-images.githubusercontent.com/102992388/164991277-afa8c7cd-d523-4a23-a039-ea8ee82f6d5a.png)
+  
+  ![screenshot](https://user-images.githubusercontent.com/102992388/164991277-afa8c7cd-d523-4a23-a039-ea8ee82f6d5a.png)
 
 
 ### Analysis of Outcomes Based on Goals
